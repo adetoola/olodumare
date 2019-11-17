@@ -1,0 +1,65 @@
+export const blue50 = '#E3F8FF';
+export const blue100 = '#B3ECFF';
+export const blue200 = '#81DEFD';
+export const blue300 = '#5ED0FA';
+export const blue400 = '#40C3F7';
+export const blue500 = '#2BB0ED';
+export const blue600 = '#1992D4';
+export const blue700 = '#127FBF';
+export const blue800 = '#0B69A3';
+export const blue900 = '#035388';
+
+export const gray50 = '#F5F7FA';
+export const gray100 = '#E4E7EB';
+export const gray200 = '#CBD2D9';
+export const gray300 = '#9AA5B1';
+export const gray400 = '#7B8794';
+export const gray500 = '#616E7C';
+export const gray600 = '#52606D';
+export const gray700 = '#3E4C59';
+export const gray800 = '#323F4B';
+export const gray900 = '#1F2933';
+
+export const pink050 = '#FFE3EC';
+export const pink100 = '#FFB8D2';
+export const pink200 = '#FF8CBA';
+export const pink300 = '#F364A2';
+export const pink400 = '#E8368F';
+export const pink500 = '#DA127D';
+export const pink600 = '#BC0A6F';
+export const pink700 = '#A30664';
+export const pink800 = '#870557';
+export const pink900 = '#620042';
+
+export const red50 = '#FFE3E3';
+export const red100 = '#FFBDBD';
+export const red200 = '#FF9B9B';
+export const red300 = '#F86A6A';
+export const red400 = '#EF4E4E';
+export const red500 = '#E12D39';
+export const red600 = '#CF1124';
+export const red700 = '#AB091E';
+export const red800 = '#8A041A';
+export const red900 = '#610316';
+
+export const yellow50 = '#FFFBEA';
+export const yellow100 = '#FFF3C4';
+export const yellow200 = '#FCE588';
+export const yellow300 = '#FADB5F';
+export const yellow400 = '#F7C948';
+export const yellow500 = '#F0B429';
+export const yellow600 = '#DE911D';
+export const yellow700 = '#CB6E17';
+export const yellow800 = '#B44D12';
+export const yellow900 = '#8D2B0B';
+
+export const teal50 = '#EFFCF6';
+export const teal100 = '#C6F7E2';
+export const teal200 = '#8EEDC7';
+export const teal300 = '#65D6AD';
+export const teal400 = '#3EBD93';
+export const teal500 = '#27AB83';
+export const teal600 = '#199473';
+export const teal700 = '#147D64';
+export const teal800 = '#0C6B58';
+export const teal900 = '#014D40';
