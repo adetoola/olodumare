@@ -28,6 +28,7 @@
         "extensions": [".js", ".jsx", "ts", "tsx"]
       }
     ],
+    "jsx-quotes": ["error", "prefer-double"],
     "react/react-in-jsx-scope": "off",
     "prettier/prettier": [
       "error",

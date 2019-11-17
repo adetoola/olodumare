@@ -1,11 +1,11 @@
 import React from 'react';
 
 import { storiesOf } from '@storybook/react';
-import { Paragraph } from 'components/Typography/paragraph.component';
+import { P } from 'components/Typography/paragraph.component';
 
 storiesOf('Paragraph', module).add(
   'default',
-  () => <Paragraph>This is a paragraph</Paragraph>,
+  () => <P>This is a paragraph</P>,
   {
     info: { inline: true }
   }
